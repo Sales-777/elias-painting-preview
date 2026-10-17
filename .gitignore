@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.ssr/
+.npm-cache/
+public/media/
+src/content/media.generated.json
+reports/phase-2/browser-profile/
+*.tsbuildinfo
+.local-preview/
+CODIGO_DO_SITE.txt
+vite.config.js
+vite.config.d.ts

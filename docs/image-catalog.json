@@ -1,0 +1,3374 @@
+{
+  "total": 84,
+  "notes": "Curadoria visual concluída em 16/10/2026. Categorias apoiadas por contexto visual/seções documentadas; autoria, execução e direitos não confirmados. Seleções editoriais condicionais não aprovam publicação.",
+  "items": [
+    {
+      "id": "IMG-001",
+      "filename": "IMG-001_Brick-Pavers-Stairs.jpg",
+      "path": "assets/original/IMG-001_Brick-Pavers-Stairs.jpg",
+      "sha256": "585f9e248ce79239b499a457343d5027cca474292c6bc4e06799d35bea270258",
+      "width": 2048,
+      "height": 1536,
+      "role": "photo-candidate",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 608117,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Brick-Pavers-Stairs.jpg",
+      "source_sections": [
+        "HTML/CSS",
+        "Capa / slide 1"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-001",
+      "visual_description": "Escada e piso externo de tijolos; não demonstra pintura com clareza",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Baixa prioridade: a cena pode sugerir um serviço não confirmado"
+    },
+    {
+      "id": "IMG-002",
+      "filename": "IMG-002_Garage_epoxy_flake2-7134417.jpg",
+      "path": "assets/original/IMG-002_Garage_epoxy_flake2-7134417.jpg",
+      "sha256": "f0cf3ca93fffae1587580ee7967ae304c624c7cc3197cec05de99b1ac3159318",
+      "width": 960,
+      "height": 720,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "epoxy-surface",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 123905,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Garage_epoxy_flake2-7134417.jpg",
+      "source_sections": [
+        "HTML/CSS",
+        "Capa / slide 2"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-002",
+      "visual_description": "Detalhe de piso com flakes em garagem/oficina",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Auditoria registra ocorrência do nome Garage_epoxy_flake2 em outros sites; autoria/licença pendentes."
+    },
+    {
+      "id": "IMG-003",
+      "filename": "IMG-003_1240343f4874837cbc41034e2dcbec5f.jpg",
+      "path": "assets/original/IMG-003_1240343f4874837cbc41034e2dcbec5f.jpg",
+      "sha256": "8b888d1f44e2450ae7c64c750391a0ea0ff537fc56402d7aa67d65f56cc41c64",
+      "width": 736,
+      "height": 552,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "epoxy-marble-look",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 64102,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/1240343f4874837cbc41034e2dcbec5f.jpg",
+      "source_sections": [
+        "HTML/CSS",
+        "Capa / slide 6"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-003",
+      "visual_description": "Ambiente amplo com piso de aspecto marmorizado",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-004",
+      "filename": "IMG-004_Screenshot_20230619-130122_Chrome.jpg",
+      "path": "assets/original/IMG-004_Screenshot_20230619-130122_Chrome.jpg",
+      "sha256": "87ed62f29e14b8f25e5921b8ce0b3135df6e27ba8c68a5e0bc661c80d605a977",
+      "width": 1080,
+      "height": 576,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 84172,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Screenshot_20230619-130122_Chrome.jpg",
+      "source_sections": [
+        "HTML/CSS",
+        "Epoxy Gallery / imagem 1"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-004",
+      "visual_description": "Piso de garagem em primeiro plano e carro ao fundo",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-005",
+      "filename": "IMG-005_utah-epoxy-garage-floor-coating-df6bdf0.jpg",
+      "path": "assets/original/IMG-005_utah-epoxy-garage-floor-coating-df6bdf0.jpg",
+      "sha256": "4f62300deff5928c6396a9d3abf31a50581b4f977e4bbfd11f48e82a58f501dc",
+      "width": 797,
+      "height": 797,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 126526,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/utah-epoxy-garage-floor-coating-df6bdf0.jpg",
+      "source_sections": [
+        "HTML/CSS",
+        "Epoxy Gallery / imagem 2"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-005",
+      "visual_description": "Garagem com piso azul",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Manter em revisão de procedência; nome do arquivo contém referência externa"
+    },
+    {
+      "id": "IMG-006",
+      "filename": "IMG-006_roller.webp",
+      "path": "assets/original/IMG-006_roller.webp",
+      "sha256": "7e02d3de7d65d56ea1c952af11c858325008f053aae7629ab9839449b284bcb0",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "epoxy-feature",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 741232,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/roller.webp",
+      "source_sections": [
+        "HTML/CSS",
+        "Epoxy Gallery / imagem 17"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-006",
+      "visual_description": "Aplicação de revestimento no piso com rolo",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.42,
+        "y": 0.48
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-007",
+      "filename": "IMG-007_Tiger_JPG.jpg",
+      "path": "assets/original/IMG-007_Tiger_JPG.jpg",
+      "sha256": "a2b179633336b6845ff255d37daa7c8ef5e001d79b5b4ebe82990b77050502f4",
+      "width": 365,
+      "height": 365,
+      "role": "logo",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": false,
+      "featured": [
+        {
+          "slot": "brand-tiger",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 20287,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Tiger%20JPG.jpg/:/cr=t:15.15%25,l:12.34%25,w:73.41%25,h:73.53%25/rs=w:365,h:365,cg:true,m",
+      "source_sections": [
+        "HTML/CSS",
+        "Elias & Lauren Interior Design LLC  [ABOUT_IMAGE_RENDERED0]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-007",
+      "visual_description": "Marca Tiger Epoxy Coating com pata laranja",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "excluded_brand_asset",
+      "gallery_reason": "Ativo de marca, não fotografia de obra."
+    },
+    {
+      "id": "IMG-008",
+      "filename": "IMG-008_Elias_JPG-e494121.jpg",
+      "path": "assets/original/IMG-008_Elias_JPG-e494121.jpg",
+      "sha256": "1f10fab18982b7331f194a5a972bc90260d9f031d28f328cf6e561d92f0587d5",
+      "width": 365,
+      "height": 365,
+      "role": "logo",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": false,
+      "featured": [
+        {
+          "slot": "brand-elias",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 27132,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Elias%20JPG-e494121.jpg/:/cr=t:7.63%25,l:7.63%25,w:84.75%25,h:84.75%25/rs=w:365,h:365,cg:true,m",
+      "source_sections": [
+        "HTML/CSS",
+        "Elias & Lauren Interior Design LLC  [ABOUT_IMAGE_RENDERED1]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-008",
+      "visual_description": "Mascote tigre com escada e material de pintura",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "excluded_brand_asset",
+      "gallery_reason": "Ativo de marca, não fotografia de obra."
+    },
+    {
+      "id": "IMG-009",
+      "filename": "IMG-009_professional-paint-residential-painting-projec.jpg",
+      "path": "assets/original/IMG-009_professional-paint-residential-painting-projec.jpg",
+      "sha256": "366540b252695e595fa5be25c42bf7e117071dd2e53e7079be9fea177624f0e8",
+      "width": 598,
+      "height": 300,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 15179,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/professional-paint-residential-painting-projec.jpg/:/cr=t:0%25,l:14.71%25,w:70.57%25,h:100%25/rs=w:600,h:300,cg:true/qt=q:33",
+      "source_sections": [
+        "HTML/CSS",
+        "Interior Residential Gallery / imagem 20",
+        "About Us [ABOUT_IMAGE_RENDERED0]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-009",
+      "visual_description": "Interior com escada, molduras e piso de madeira",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-010",
+      "filename": "IMG-010_Screenshot_20230619-130151_Chrome.jpg",
+      "path": "assets/original/IMG-010_Screenshot_20230619-130151_Chrome.jpg",
+      "sha256": "7adb521d0b82301cca01b06a5551c2f540e447e42023aa1090bf3f327774354e",
+      "width": 600,
+      "height": 300,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 11297,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Screenshot_20230619-130151_Chrome.jpg/:/cr=t:0%25,l:6.85%25,w:86.3%25,h:100%25/rs=w:600,h:300,cg:true/qt=q:33",
+      "source_sections": [
+        "HTML/CSS",
+        "Epoxy Gallery / imagem 3",
+        "About Us [ABOUT_IMAGE_RENDERED1]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-010",
+      "visual_description": "Garagem com piso cinza brilhante",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-011",
+      "filename": "IMG-011_living-room-1-1557931775.jpg",
+      "path": "assets/original/IMG-011_living-room-1-1557931775.jpg",
+      "sha256": "eb46fa97b83ad5b2ecd8d184bba0dea6645333c0065908fe448b2af28f9af466",
+      "width": 600,
+      "height": 299,
+      "role": "photo-candidate",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "service-wallpaper",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 26046,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/living-room-1-1557931775.jpg/:/cr=t:0.2%25,l:0%25,w:100%25,h:99.59%25/rs=w:600,h:300,cg:true/qt=q:33",
+      "source_sections": [
+        "HTML/CSS",
+        "About Us [ABOUT_IMAGE_RENDERED2]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-011",
+      "visual_description": "Sala com papel de parede geométrico azul e branco",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-012",
+      "filename": "IMG-012_1380bd5fc369dce9482b1b3e384b1827.jpg",
+      "path": "assets/original/IMG-012_1380bd5fc369dce9482b1b3e384b1827.jpg",
+      "sha256": "56d368c63b428ed3f6b9b5c37586a86c7cf90a5b951c1b28017cff7abdef481b",
+      "width": 365,
+      "height": 365,
+      "role": "photo-candidate",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "service-wallpaper",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 28978,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/1380bd5fc369dce9482b1b3e384b1827.jpg/:/cr=t:16.67%25,l:0%25,w:100%25,h:66.67%25/rs=w:365,h:365,cg:true",
+      "source_sections": [
+        "HTML/CSS",
+        "services  [ABOUT_IMAGE_RENDERED0]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-012",
+      "visual_description": "Quarto com papel de parede e cabeceira",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-013",
+      "filename": "IMG-013_Exterior-Painting-1.jpg",
+      "path": "assets/original/IMG-013_Exterior-Painting-1.jpg",
+      "sha256": "948e3bab06fe418f943d32c744ff3bd913743f612224886c05075c464bfa6ae3",
+      "width": 365,
+      "height": 365,
+      "role": "photo-candidate",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "service-exterior",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 31867,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Exterior-Painting-1.jpg/:/cr=t:0%25,l:12.5%25,w:75%25,h:100%25/rs=w:365,h:365,cg:true",
+      "source_sections": [
+        "HTML/CSS",
+        "services  [ABOUT_IMAGE_RENDERED1]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-013",
+      "visual_description": "Fachada de residência com revestimento horizontal",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-014",
+      "filename": "IMG-014_Photo-May-20-5-26-01-PM.jpg",
+      "path": "assets/original/IMG-014_Photo-May-20-5-26-01-PM.jpg",
+      "sha256": "ef7d7e0ea4af5103087b4354df172d26ac01638cb907b0fe57b951a13bce24a9",
+      "width": 365,
+      "height": 365,
+      "role": "photo-candidate",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 30447,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Photo-May-20-5-26-01-PM.jpg/:/cr=t:0%25,l:12.5%25,w:75%25,h:100%25/rs=w:365,h:365,cg:true",
+      "source_sections": [
+        "HTML/CSS",
+        "services  [ABOUT_IMAGE_RENDERED2]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-014",
+      "visual_description": "Ambiente em obra com acabamento de teto e paredes",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": "IMG-033",
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-015",
+      "filename": "IMG-015_powerwashing.jpg",
+      "path": "assets/original/IMG-015_powerwashing.jpg",
+      "sha256": "ca0739e4949998c73800dc1baf9a9f62539ae17da3bd4d285802a28c9cc9c7e8",
+      "width": 365,
+      "height": 364,
+      "role": "comparison-composite",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "pending_documentary_confirmation",
+      "featured": [
+        {
+          "slot": "service-powerwashing",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 28098,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/powerwashing.jpg/:/cr=t:1.14%25,l:0%25,w:100%25,h:97.71%25/rs=w:365,h:365,cg:true",
+      "source_sections": [
+        "HTML/CSS",
+        "services  [ABOUT_IMAGE_RENDERED0]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-015",
+      "visual_description": "Montagem publicada com madeira antes/depois da lavagem",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "held_for_review",
+      "gallery_reason": "Composição publicada; não comprova obra nem comparação documental."
+    },
+    {
+      "id": "IMG-016",
+      "filename": "IMG-016_blob-6fa186f.png",
+      "path": "assets/original/IMG-016_blob-6fa186f.png",
+      "sha256": "3a5f7265dea0b0121ef082b25607078a00fd599dc218f05962e0fdfc68f84e23",
+      "width": 365,
+      "height": 365,
+      "role": "sample-composite",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "pending_documentary_confirmation",
+      "featured": [
+        {
+          "slot": "service-cabinets",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 20608,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/blob-6fa186f.png/:/cr=t:0%25,l:8.7%25,w:82.61%25,h:100%25/rs=w:365,h:365,cg:true",
+      "source_sections": [
+        "HTML/CSS",
+        "services  [ABOUT_IMAGE_RENDERED1]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-016",
+      "visual_description": "Composição de amostras de portas de armários",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "held_for_review",
+      "gallery_reason": "Composição publicada; não comprova obra nem comparação documental."
+    },
+    {
+      "id": "IMG-017",
+      "filename": "IMG-017_Screenshot_20230619-125900_Chrome.jpg",
+      "path": "assets/original/IMG-017_Screenshot_20230619-125900_Chrome.jpg",
+      "sha256": "5e18654d80edb8708d3184fbf44a2fec41c27631d17546a3160fcbf3f4d574bb",
+      "width": 365,
+      "height": 365,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "epoxy-marble-look",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 17183,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Screenshot_20230619-125900_Chrome.jpg/:/cr=t:20.54%25,l:0%25,w:100%25,h:79.46%25/rs=w:365,h:365,cg:true",
+      "source_sections": [
+        "HTML/CSS",
+        "services  [ABOUT_IMAGE_RENDERED2]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-017",
+      "visual_description": "Detalhe de piso de aspecto marmorizado",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-018",
+      "filename": "IMG-018_IMG_20230619_155525_826.webp",
+      "path": "assets/original/IMG-018_IMG_20230619_155525_826.webp",
+      "sha256": "9707e46e2f2752291f7bbcec568e664f2f2f1f6639d787aeea33d50608baf284",
+      "width": 984,
+      "height": 1749,
+      "role": "brand-panel",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": false,
+      "featured": [],
+      "bytes": 17783,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/IMG_20230619_155525_826.webp/:/rs=w:984,h:1749/qt=q:3",
+      "source_sections": [
+        "HTML/CSS",
+        "Contact Us [IMAGE_RENDERED]"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-018",
+      "visual_description": "Painel vertical publicado com as duas marcas",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "excluded_brand_asset",
+      "gallery_reason": "Ativo de marca, não fotografia de obra."
+    },
+    {
+      "id": "IMG-019",
+      "filename": "IMG-019_blob.png",
+      "path": "assets/original/IMG-019_blob.png",
+      "sha256": "06b9d1eb63361e1e27b78faffa54524d3c4c672b3fd438acf099ad17ff9cee06",
+      "width": 1200,
+      "height": 628,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 871279,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/blob.png/:/",
+      "source_sections": [
+        "Capa / slide 3"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-019",
+      "visual_description": "Garagem com carro e armários",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-020",
+      "filename": "IMG-020_Morris-County-NJ-Roofing-and-Siding-Contracotr.jpg",
+      "path": "assets/original/IMG-020_Morris-County-NJ-Roofing-and-Siding-Contracotr.jpg",
+      "sha256": "ef5cf5e87f6b1e2031c2505d7f71130193d87b7ac6e54d4f1c06cadaa10a7d95",
+      "width": 1500,
+      "height": 597,
+      "role": "photo-candidate",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "service-exterior",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 219637,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Morris-County-NJ-Roofing-and-Siding-Contracotr.jpg",
+      "source_sections": [
+        "Capa / slide 4"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-020",
+      "visual_description": "Residência ao entardecer, fachada e pátio",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Manter em revisão de procedência; nome do arquivo contém referência externa"
+    },
+    {
+      "id": "IMG-021",
+      "filename": "IMG-021_slider.jpg",
+      "path": "assets/original/IMG-021_slider.jpg",
+      "sha256": "27f1b6f9cf9056bab41520fb3920f635309a7e01d97926c7736973b27dacdc10",
+      "width": 1920,
+      "height": 774,
+      "role": "photo-candidate",
+      "category_candidate": "unclassified",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "service-drywall",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 138808,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/slider.jpg",
+      "source_sections": [
+        "Capa / slide 5"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-021",
+      "visual_description": "Interior em obra com paredes e teto sem acabamento final",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": "IMG-034",
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.55,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-022",
+      "filename": "IMG-022_img-01.jpg",
+      "path": "assets/original/IMG-022_img-01.jpg",
+      "sha256": "f97a7715562de5a2abac6a65180698951eed80a750674d4aa52937fc9095689d",
+      "width": 600,
+      "height": 410,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "about-primary",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 29761,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/img-01.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 1"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-022",
+      "visual_description": "Interior em execução, móveis protegidos e ferramentas",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.55
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-023",
+      "filename": "IMG-023_Home-office-pequeno-home-office-transitional-w.jpg",
+      "path": "assets/original/IMG-023_Home-office-pequeno-home-office-transitional-w.jpg",
+      "sha256": "862fcb4312a71d3e9cab0971005032699b8b04189680da66616e2c580877a01e",
+      "width": 990,
+      "height": 752,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 105634,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Home-office-pequeno-home-office-transitional-w.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 2"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-023",
+      "visual_description": "Escritório doméstico com parede alaranjada",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-024",
+      "filename": "IMG-024_twdh_mulled.jpg",
+      "path": "assets/original/IMG-024_twdh_mulled.jpg",
+      "sha256": "e50f918099bdec38a06007c5054bdd1a0697fd32d66fbdc0b0c88f198befc3b0",
+      "width": 2560,
+      "height": 2330,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "hero-primary",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 477424,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/twdh_mulled.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 3"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-024",
+      "visual_description": "Sala vazia com janelas amplas e piso de madeira",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.53,
+        "y": 0.55
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-025",
+      "filename": "IMG-025_white-crown-molding-in-master-bedroom-design.jpg",
+      "path": "assets/original/IMG-025_white-crown-molding-in-master-bedroom-design.jpg",
+      "sha256": "c8d550b05a4859db83e8fa6e15adb72c6cecfb3ac7774a6a8879055372f0db61",
+      "width": 600,
+      "height": 398,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 42068,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/white-crown-molding-in-master-bedroom-design.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 4"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-025",
+      "visual_description": "Quarto com molduras brancas e paredes neutras",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-026",
+      "filename": "IMG-026_35-interior-painting-md.jpg",
+      "path": "assets/original/IMG-026_35-interior-painting-md.jpg",
+      "sha256": "9683474afb5772fdc6044cfc959488d026f44c07f9be067f6d7e49ee5ef5ea46",
+      "width": 570,
+      "height": 239,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 26979,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/35-interior-painting-md.jpg",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 5"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-026",
+      "visual_description": "Interior com escada e acabamento de paredes",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-027",
+      "filename": "IMG-027_Crown-Molding.jpg",
+      "path": "assets/original/IMG-027_Crown-Molding.jpg",
+      "sha256": "2c9324f78ddc60b6494bb5d89db6f02f396bf5ec261a7e8d19ce84a1b501dff7",
+      "width": 769,
+      "height": 624,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 59791,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Crown-Molding.jpg",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 6"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-027",
+      "visual_description": "Sala vazia com lustre e molduras",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-028",
+      "filename": "IMG-028_living-room-blue-grey-walls.jpg",
+      "path": "assets/original/IMG-028_living-room-blue-grey-walls.jpg",
+      "sha256": "4014ed4cb0b866cd8b3eb9c4ac11a599c599b36fdda03e149a308b8af1577151",
+      "width": 917,
+      "height": 687,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "hero-primary",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        },
+        {
+          "slot": "service-interior",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 95318,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/living-room-blue-grey-walls.jpg",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 7"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-028",
+      "visual_description": "Sala decorada com paredes azul-acinzentadas",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-029",
+      "filename": "IMG-029_trim-5-1024x682.jpg",
+      "path": "assets/original/IMG-029_trim-5-1024x682.jpg",
+      "sha256": "f8b2c20f7ac6b9d4cfe04112a2e542f326d120a4db894df835d382714fffb6f2",
+      "width": 1024,
+      "height": 682,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "service-interior",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 86644,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/trim-5-1024x682.jpg",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 8"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-029",
+      "visual_description": "Sala com paredes salmão e lambris brancos",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-030",
+      "filename": "IMG-030_nice-trim1.jpg",
+      "path": "assets/original/IMG-030_nice-trim1.jpg",
+      "sha256": "7d3b6bd5861a798485948c29ab523d19cd1cae265c23d62d3e7e998c10303aa6",
+      "width": 450,
+      "height": 300,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 22253,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/nice-trim1.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 9"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-030",
+      "visual_description": "Sala com paredes marrons, ventilador e piso de madeira",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-031",
+      "filename": "IMG-031_95.jpg",
+      "path": "assets/original/IMG-031_95.jpg",
+      "sha256": "2c68011a66c587fdf70930e51a0f0fb2d79ba64bed481aaf0355f5ec15a67330",
+      "width": 800,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 60706,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/95.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 10"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-031",
+      "visual_description": "Sala com paredes bege e faixa escura",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-032",
+      "filename": "IMG-032_house-remodeling.jpg",
+      "path": "assets/original/IMG-032_house-remodeling.jpg",
+      "sha256": "261a1d98fdc3469a53943a4e3b56dc4307b1eb2fbcc44e68f4273d3634eff50c",
+      "width": 900,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "service-drywall",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 55528,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/house-remodeling.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 11"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-032",
+      "visual_description": "Ambiente em obra com drywall e material no chão",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-033",
+      "filename": "IMG-033_original_13_.jpg",
+      "path": "assets/original/IMG-033_original_13_.jpg",
+      "sha256": "8d2846fc0100af1764173194b355bb24d7b8d96d60c3b1a4509eb6350dd8bfe2",
+      "width": 1100,
+      "height": 733,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 58337,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/original%20(13).jpg",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 12"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-033",
+      "visual_description": "Ambiente em obra com teto decorativo",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": "IMG-014",
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-034",
+      "filename": "IMG-034_original_9_.jpg",
+      "path": "assets/original/IMG-034_original_9_.jpg",
+      "sha256": "34ee76f7ff8118ba81a236779d32eb5d1810da93e480f165ee9cebf88a5d3a9a",
+      "width": 929,
+      "height": 619,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 58676,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/original%20(9).jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 13"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-034",
+      "visual_description": "Interior em obra com arcos e portas",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": "IMG-021",
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-035",
+      "filename": "IMG-035_106.jpg",
+      "path": "assets/original/IMG-035_106.jpg",
+      "sha256": "7e3061f2135901e26bf8bc2894859454a1e47586ff993e65ff686cf8d5da20e9",
+      "width": 800,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 76438,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/106.jpg",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 14"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-035",
+      "visual_description": "Corredor com paredes em dois tons",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-036",
+      "filename": "IMG-036_pcc-2513052832523580006-painting-3_r.jpg",
+      "path": "assets/original/IMG-036_pcc-2513052832523580006-painting-3_r.jpg",
+      "sha256": "99f596d2f02c4f7e05758a5c9c2495be369907dbc33b9d5083842caab21909d8",
+      "width": 800,
+      "height": 500,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 47638,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/pcc-2513052832523580006-painting-3_r.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 15"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-036",
+      "visual_description": "Sala com teto em caixotões e paredes claras",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-037",
+      "filename": "IMG-037_67.jpg",
+      "path": "assets/original/IMG-037_67.jpg",
+      "sha256": "35eed7abdbfcd196d844e44124562f3a39e2313d441d0af3f0ae6387ed588ce1",
+      "width": 450,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 63077,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/67.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 16"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-037",
+      "visual_description": "Hall de entrada com escadaria",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-038",
+      "filename": "IMG-038_kitchen-painted-mocha-brown-colour-with-white-.jpg",
+      "path": "assets/original/IMG-038_kitchen-painted-mocha-brown-colour-with-white-.jpg",
+      "sha256": "396637a92710670cfae64152e2d267dd3b03a18b131b8ccc57b68f8e49c8aa63",
+      "width": 1024,
+      "height": 683,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "service-cabinets",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 73097,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/kitchen-painted-mocha-brown-colour-with-white-.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 17"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-038",
+      "visual_description": "Cozinha com paredes em tom marrom-claro",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-039",
+      "filename": "IMG-039_traditional-living-room.jpg",
+      "path": "assets/original/IMG-039_traditional-living-room.jpg",
+      "sha256": "499856cff4aea3be57c3d43ccaf538296aee611c2fa52b06d47c67f9fe45f26b",
+      "width": 640,
+      "height": 426,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 72546,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/traditional-living-room.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 18"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-039",
+      "visual_description": "Sala decorada com lareira e molduras",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-040",
+      "filename": "IMG-040_Red_Accent-Fireplace.jpg",
+      "path": "assets/original/IMG-040_Red_Accent-Fireplace.jpg",
+      "sha256": "9e3bcbb8a337f10a1c2306c196a943481cdc8ee8aee75c98586992172b4d3619",
+      "width": 650,
+      "height": 434,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 61581,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Red_Accent-Fireplace.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 19"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-040",
+      "visual_description": "Sala com parede vermelha de destaque e pé-direito alto",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-041",
+      "filename": "IMG-041_89.jpg",
+      "path": "assets/original/IMG-041_89.jpg",
+      "sha256": "34b9399c8a868902caaeaed4852f05dec43359d4c20cb68a78a472bf36d27381",
+      "width": 800,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 54229,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/89.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 21"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-041",
+      "visual_description": "Ambiente vazio com paredes em dois tons",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-042",
+      "filename": "IMG-042_arco-in-muratura-432992_big-5887b4e25f9b58bdb3.jpg",
+      "path": "assets/original/IMG-042_arco-in-muratura-432992_big-5887b4e25f9b58bdb3.jpg",
+      "sha256": "9e2f95deaa40245c018576a8925befde35c7018da7fb8479b29566e65cc256be",
+      "width": 350,
+      "height": 232,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 19886,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/arco-in-muratura-432992_big-5887b4e25f9b58bdb3.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 22"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-042",
+      "visual_description": "Sala com molduras e lareira; arquivo de baixa resolução",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-043",
+      "filename": "IMG-043_66.jpg",
+      "path": "assets/original/IMG-043_66.jpg",
+      "sha256": "398334e87d97c161a11ceb6cc86f8d9292439a9676bb9e97cf8cd8eb1386f700",
+      "width": 450,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 58490,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/66.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 23"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-043",
+      "visual_description": "Escada curva em interior residencial",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-044",
+      "filename": "IMG-044_590interior.jpg",
+      "path": "assets/original/IMG-044_590interior.jpg",
+      "sha256": "30a41e890db7c13919ea3b639fdc63073fa1fbae8e7c67bc23afe64ce5a9bedc",
+      "width": 590,
+      "height": 345,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 19445,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/590interior.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 24"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-044",
+      "visual_description": "Quarto com paredes e teto azulados",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-045",
+      "filename": "IMG-045_0xbg2-trim-crown-molding-company.jpg",
+      "path": "assets/original/IMG-045_0xbg2-trim-crown-molding-company.jpg",
+      "sha256": "cb1eabd4473b34d483a5ff52b7842bf8a110a61d46b9c159611d04ccbe5ca497",
+      "width": 429,
+      "height": 272,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 19209,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/0xbg2-trim-crown-molding-company.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 25"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-045",
+      "visual_description": "Sala com ventilador e teto inclinado",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-046",
+      "filename": "IMG-046_dreamstimeextralarge_4414980-1170x780.jpg",
+      "path": "assets/original/IMG-046_dreamstimeextralarge_4414980-1170x780.jpg",
+      "sha256": "c4a95a8d8d3a26adfa404acfdd971e5dfc1c1675c03ef31a9424407aa7b40965",
+      "width": 1170,
+      "height": 780,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 89831,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/dreamstimeextralarge_4414980-1170x780.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 26"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-046",
+      "visual_description": "Quarto com paredes roxas; nome do arquivo menciona Dreamstime",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Manter em revisão de procedência; nome do arquivo contém referência externa"
+    },
+    {
+      "id": "IMG-047",
+      "filename": "IMG-047_83.jpg",
+      "path": "assets/original/IMG-047_83.jpg",
+      "sha256": "19ac3c355181ec4d81b393432c582d531517bc1e7e9c33f268ba88c1897d37d7",
+      "width": 450,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 51736,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/83.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 27"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-047",
+      "visual_description": "Escada residencial com corrimão de madeira",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-048",
+      "filename": "IMG-048_84.jpg",
+      "path": "assets/original/IMG-048_84.jpg",
+      "sha256": "17cc34897f6e3c7ec5eb2355f2aacd61414cd0f3c6ed9b39d76806ac6234503e",
+      "width": 782,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 79869,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/84.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 28"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-048",
+      "visual_description": "Sala vazia com lustre e paredes marrons",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-049",
+      "filename": "IMG-049_interior-painting.jpg",
+      "path": "assets/original/IMG-049_interior-painting.jpg",
+      "sha256": "869c51490a8de6c861d7fcf74e47443046e306a955a4949ac172e1093c958068",
+      "width": 424,
+      "height": 283,
+      "role": "photo-candidate",
+      "category_candidate": "residential",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 58087,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/interior-painting.jpg/:/",
+      "source_sections": [
+        "Interior Residential Gallery / imagem 29"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-049",
+      "visual_description": "Hall amarelo com piso de madeira",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-050",
+      "filename": "IMG-050_Garage_epoxy_flake2_1_-ee84fbb.jpg",
+      "path": "assets/original/IMG-050_Garage_epoxy_flake2_1_-ee84fbb.jpg",
+      "sha256": "f0cf3ca93fffae1587580ee7967ae304c624c7cc3197cec05de99b1ac3159318",
+      "width": 960,
+      "height": 720,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 123905,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/Garage_epoxy_flake2%20(1)-ee84fbb.jpg",
+      "source_sections": [
+        "Epoxy Gallery / imagem 4"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-050",
+      "visual_description": "Mesma fotografia de IMG-002, com outro nome de arquivo",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": "IMG-002",
+      "duplicate_kind": "binary",
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Auditoria registra ocorrência do nome Garage_epoxy_flake2 em outros sites; autoria/licença pendentes."
+    },
+    {
+      "id": "IMG-051",
+      "filename": "IMG-051_delightful-garage-floor-epoxy-flakes-4-90d537c.jpg",
+      "path": "assets/original/IMG-051_delightful-garage-floor-epoxy-flakes-4-90d537c.jpg",
+      "sha256": "b76ae12b2f8065d7b024a8c3fd04c86e8c24b49a20e6b9698fa8558315705a2e",
+      "width": 600,
+      "height": 450,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 93437,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/delightful-garage-floor-epoxy-flakes-4-90d537c.jpg",
+      "source_sections": [
+        "Epoxy Gallery / imagem 5"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-051",
+      "visual_description": "Garagem com paredes de madeira e piso com flakes",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-052",
+      "filename": "IMG-052_blob-db47d88.png",
+      "path": "assets/original/IMG-052_blob-db47d88.png",
+      "sha256": "8e866ae3d0db28f4b156ad9bf42c8e3070633b71c460c5622276b88c4e05bac8",
+      "width": 1200,
+      "height": 628,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 528144,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/blob-db47d88.png",
+      "source_sections": [
+        "Epoxy Gallery / imagem 6"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-052",
+      "visual_description": "Mesma cena de IMG-019, em composição com margens transparentes",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": "IMG-019",
+      "duplicate_kind": "visual",
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-053",
+      "filename": "IMG-053_blob-ada15d2.png",
+      "path": "assets/original/IMG-053_blob-ada15d2.png",
+      "sha256": "b6a11bbb7e9f5ea208ca247e006b550ed6a88236810fe7c767bbe2e7d8da23bc",
+      "width": 736,
+      "height": 552,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 339948,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/blob-ada15d2.png",
+      "source_sections": [
+        "Epoxy Gallery / imagem 7"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-053",
+      "visual_description": "Mesma cena de IMG-003, em composição com margens transparentes",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": "IMG-003",
+      "duplicate_kind": "visual",
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-054",
+      "filename": "IMG-054_d01aca0f3ba5a5de2cb7f419dbea4154.jpg",
+      "path": "assets/original/IMG-054_d01aca0f3ba5a5de2cb7f419dbea4154.jpg",
+      "sha256": "0d50c96b410f3e281a9502c74c97ea74957f8454c21246bdd88ca3021c67e9ba",
+      "width": 500,
+      "height": 375,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 24863,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/d01aca0f3ba5a5de2cb7f419dbea4154.jpg",
+      "source_sections": [
+        "Epoxy Gallery / imagem 8"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-054",
+      "visual_description": "Galpão com piso cinza claro",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-055",
+      "filename": "IMG-055_3-b3409da.jpg",
+      "path": "assets/original/IMG-055_3-b3409da.jpg",
+      "sha256": "2e1691aa7baaca765fecdd14d2402f7ecd97cc08fd6966a55bb71cb042fb8df1",
+      "width": 800,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 49250,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/3-b3409da.jpg",
+      "source_sections": [
+        "Epoxy Gallery / imagem 9"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-055",
+      "visual_description": "Interior industrial com portas de garagem e piso cinza",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-056",
+      "filename": "IMG-056_13547.jpg",
+      "path": "assets/original/IMG-056_13547.jpg",
+      "sha256": "b757efc92ac71f132135e3fc36436f7ca9ac8ebf5421931540fb1688f3eaa4d9",
+      "width": 800,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 105775,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/13547.jpg",
+      "source_sections": [
+        "Epoxy Gallery / imagem 10"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-056",
+      "visual_description": "Ambiente comercial/industrial com piso pontilhado",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-057",
+      "filename": "IMG-057_1.jpg",
+      "path": "assets/original/IMG-057_1.jpg",
+      "sha256": "efee906a8bd0498ccfa38dc7e3eabf145a017085bfd526ca5d71cdf1e93ccdab",
+      "width": 800,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 46203,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/1.jpg",
+      "source_sections": [
+        "Epoxy Gallery / imagem 11"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-057",
+      "visual_description": "Ambiente comercial/industrial com pilares e piso cinza",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-058",
+      "filename": "IMG-058_IMG_0198.JPG",
+      "path": "assets/original/IMG-058_IMG_0198.JPG",
+      "sha256": "bf3cc67d154b453f52f977264b23c1d16828228fe2655a0de77b2d23e3a6f139",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 668775,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/IMG_0198.JPG",
+      "source_sections": [
+        "Epoxy Gallery / imagem 12"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-058",
+      "visual_description": "Área externa com piso revestido e veículo",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-059",
+      "filename": "IMG-059_IMG_1785.JPG",
+      "path": "assets/original/IMG-059_IMG_1785.JPG",
+      "sha256": "4f9f58fd7f304a2cdf2ea4b35e2cb9dc71c198a9cb1571a0048a28790de7d55f",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "epoxy-feature",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        },
+        {
+          "slot": "about-primary",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 336468,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/IMG_1785.JPG",
+      "source_sections": [
+        "Epoxy Gallery / imagem 13"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-059",
+      "visual_description": "Pessoas trabalhando em piso de garagem/área comercial",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.65,
+        "y": 0.48
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Pessoas identificáveis; não atribuir identidade/equipe sem confirmação e verificar permissão."
+    },
+    {
+      "id": "IMG-060",
+      "filename": "IMG-060_115.jpg",
+      "path": "assets/original/IMG-060_115.jpg",
+      "sha256": "bd1e04ecf7477fb8e538d80ef5f933ad2d3570be7b4034b3b5fb29507333e659",
+      "width": 450,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 46883,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/115.jpg",
+      "source_sections": [
+        "Epoxy Gallery / imagem 14"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-060",
+      "visual_description": "Trabalhador aplicando revestimento de piso",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Pessoas identificáveis; não atribuir identidade/equipe sem confirmação e verificar permissão."
+    },
+    {
+      "id": "IMG-061",
+      "filename": "IMG-061_vinyl-chip-garage-floor-coating-southern-calif.jpg",
+      "path": "assets/original/IMG-061_vinyl-chip-garage-floor-coating-southern-calif.jpg",
+      "sha256": "d07dd162dd0761c3a4b569253f1f5af74402c4ae7c10e158cd331ac594467282",
+      "width": 1200,
+      "height": 800,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 223446,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/vinyl-chip-garage-floor-coating-southern-calif.jpg/:/",
+      "source_sections": [
+        "Epoxy Gallery / imagem 15"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-061",
+      "visual_description": "Garagem com piso escuro e armários brancos",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada.",
+      "review_caution": "Manter em revisão de procedência; nome do arquivo contém referência externa"
+    },
+    {
+      "id": "IMG-062",
+      "filename": "IMG-062_2015-09-8.jpg",
+      "path": "assets/original/IMG-062_2015-09-8.jpg",
+      "sha256": "7aa6c29b1201a0db2dddc014228742d3053df88964f1fab916368396fb4ce878",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "epoxy",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "epoxy-surface",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 657404,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/2015-09-8.jpg/:/",
+      "source_sections": [
+        "Epoxy Gallery / imagem 16"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-062",
+      "visual_description": "Corredor/garagem com piso claro pontilhado",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.52,
+        "y": 0.62
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-063",
+      "filename": "IMG-063_29.JPG",
+      "path": "assets/original/IMG-063_29.JPG",
+      "sha256": "0b1b851d6c8c4b00b5c33c2cdaf7cd3dd048fc57f9843935c2dd3b8332675637",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 81632,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/29.JPG",
+      "source_sections": [
+        "commercial projects / imagem 1"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-063",
+      "visual_description": "Edifício de tijolos em esquina",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-064",
+      "filename": "IMG-064_20.JPG",
+      "path": "assets/original/IMG-064_20.JPG",
+      "sha256": "b01405a781757db9e681d9b6c6f66fda5a7654d967d8af01993e71487af029b8",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 84722,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/20.JPG",
+      "source_sections": [
+        "commercial projects / imagem 2"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-064",
+      "visual_description": "Edifício urbano com fachada em tons cinza",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-065",
+      "filename": "IMG-065_12.JPG",
+      "path": "assets/original/IMG-065_12.JPG",
+      "sha256": "7316cbabee390cb97a7be7cec677e6885c5eefae1b2d03b6f3664e9dd8eb06b8",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 95041,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/12.JPG",
+      "source_sections": [
+        "commercial projects / imagem 3"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-065",
+      "visual_description": "Edifício com tijolos claros e várias janelas",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-066",
+      "filename": "IMG-066_31.JPG",
+      "path": "assets/original/IMG-066_31.JPG",
+      "sha256": "793018e1ff8ae84c1c55a41eb49a4cbc16ee2d221bda8c15db20763a5a1fd08c",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 86270,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/31.JPG",
+      "source_sections": [
+        "commercial projects / imagem 4"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-066",
+      "visual_description": "Edifício de tijolos e esquadrias escuras",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-067",
+      "filename": "IMG-067_11.JPG",
+      "path": "assets/original/IMG-067_11.JPG",
+      "sha256": "486d6ec2019775e8d26201fb20ee9b28e87af4123d0d463ff7cb03d2b8552299",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 95673,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/11.JPG",
+      "source_sections": [
+        "commercial projects / imagem 5"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-067",
+      "visual_description": "Conjunto de fachadas residenciais urbanas",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-068",
+      "filename": "IMG-068_128.JPG",
+      "path": "assets/original/IMG-068_128.JPG",
+      "sha256": "9829d81c416da372e2597a769183a720d85fe2f3df7c1f14251ca484a6f59758",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 70724,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/128.JPG",
+      "source_sections": [
+        "commercial projects / imagem 6"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-068",
+      "visual_description": "Interior comercial com bancada e computadores",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-069",
+      "filename": "IMG-069_127.JPG",
+      "path": "assets/original/IMG-069_127.JPG",
+      "sha256": "b50cb414c7f2eafd48c8cd356cc6d042ef77c4de8b4d5ffdd9ca67136586a4f7",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 64224,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/127.JPG",
+      "source_sections": [
+        "commercial projects / imagem 7"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-069",
+      "visual_description": "Interior comercial com computadores e área de convivência",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-070",
+      "filename": "IMG-070_18.JPG",
+      "path": "assets/original/IMG-070_18.JPG",
+      "sha256": "144ca597885245c2efdbaf8201eebd81527099fed48590255bdb1c2a17d64bd7",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 98791,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/18.JPG",
+      "source_sections": [
+        "commercial projects / imagem 8"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-070",
+      "visual_description": "Edifício urbano em esquina",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-071",
+      "filename": "IMG-071_17.JPG",
+      "path": "assets/original/IMG-071_17.JPG",
+      "sha256": "93c42faa639d3e35d0718ffbafde5a1fc59f51dd64449858dd44b3d27951389f",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 76559,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/17.JPG",
+      "source_sections": [
+        "commercial projects / imagem 9"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-071",
+      "visual_description": "Fachada de comércio em edifício de tijolos",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-072",
+      "filename": "IMG-072_10.JPG",
+      "path": "assets/original/IMG-072_10.JPG",
+      "sha256": "05accb97f01fff42d03c0707e3a279e50b552b1133c9118dfa370e0b6dcd68b7",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 101140,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/10.JPG",
+      "source_sections": [
+        "commercial projects / imagem 10"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-072",
+      "visual_description": "Vista de rua e edifício de tijolos",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-073",
+      "filename": "IMG-073_8.JPG",
+      "path": "assets/original/IMG-073_8.JPG",
+      "sha256": "21ca1f6d49af792c77c231bf13780d5ab2520af8caf44bd10c1db3d1d5f7bb9a",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 82752,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/8.JPG",
+      "source_sections": [
+        "commercial projects / imagem 11"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-073",
+      "visual_description": "Edifício de tijolos em esquina",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-074",
+      "filename": "IMG-074_130.JPG",
+      "path": "assets/original/IMG-074_130.JPG",
+      "sha256": "a71293d810ee3ee56f9eab9556d90134e0bdcd5c1c55077bb618cfec527b27f1",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 42014,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/130.JPG",
+      "source_sections": [
+        "commercial projects / imagem 12"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-074",
+      "visual_description": "Recepção comercial com iluminação de destaque",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-075",
+      "filename": "IMG-075_IMG_1939.JPG",
+      "path": "assets/original/IMG-075_IMG_1939.JPG",
+      "sha256": "0c4da3db9c76b2e96deba1c9efd4ed0526dfec1d8d241fa15c939559d769e9e7",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 632253,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/IMG_1939.JPG",
+      "source_sections": [
+        "commercial projects / imagem 13"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-075",
+      "visual_description": "Edifício com revestimentos de cores diferentes",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-076",
+      "filename": "IMG-076_IMG_2174.JPG",
+      "path": "assets/original/IMG-076_IMG_2174.JPG",
+      "sha256": "3557e850d9d2a82133122c94bfc9a3c2c2ef62e251cdd0de16fa6e0a2aad87c6",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 613378,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/IMG_2174.JPG",
+      "source_sections": [
+        "commercial projects / imagem 14"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-076",
+      "visual_description": "Fachada comercial com veículo de serviço à frente",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-077",
+      "filename": "IMG-077_IMG_2051.JPG",
+      "path": "assets/original/IMG-077_IMG_2051.JPG",
+      "sha256": "cbf8a90d788fdbb1ffcac20434a43bf2e66c0f35fbec7dbd8e86635f2ebf746c",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "commercial-feature",
+          "priority": "primary",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 748732,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/IMG_2051.JPG",
+      "source_sections": [
+        "commercial projects / imagem 15"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-077",
+      "visual_description": "Edifício com revestimentos claros e tijolos",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.52,
+        "y": 0.45
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-078",
+      "filename": "IMG-078_IMG_1941.JPG",
+      "path": "assets/original/IMG-078_IMG_1941.JPG",
+      "sha256": "e8606b6d7ffff5cef2b058816fd38ec49c81e393a3dfa80ee9d61d34ebb4ebe6",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 776805,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/IMG_1941.JPG",
+      "source_sections": [
+        "commercial projects / imagem 16"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-078",
+      "visual_description": "Fachada de edifício e veículos estacionados",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-079",
+      "filename": "IMG-079_IMG_2048.JPG",
+      "path": "assets/original/IMG-079_IMG_2048.JPG",
+      "sha256": "d48ee05f61fc74233932167351242b594a22d84c0d8e8e135d5a1eb90f46e114",
+      "width": 2560,
+      "height": 1920,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [
+        {
+          "slot": "commercial-feature",
+          "priority": "reserve",
+          "status": "editorial_conditional"
+        }
+      ],
+      "bytes": 716127,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/IMG_2048.JPG",
+      "source_sections": [
+        "commercial projects / imagem 17"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-079",
+      "visual_description": "Edifício com revestimento cinza e área de garagem",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": "image-manifest.md#seleção-por-posição",
+      "focal_point_candidate": {
+        "x": 0.5,
+        "y": 0.45
+      },
+      "crop_status": "proposed_not_browser_tested",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-080",
+      "filename": "IMG-080_15.JPG",
+      "path": "assets/original/IMG-080_15.JPG",
+      "sha256": "9a9ab0d8b50a6c6145b5f9ed53948b3e1b73be2766b461379620086d13433c40",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 88582,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/15.JPG",
+      "source_sections": [
+        "commercial projects / imagem 18"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-080",
+      "visual_description": "Edifício urbano com fachada clara",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-081",
+      "filename": "IMG-081_PICT0081.jpg",
+      "path": "assets/original/IMG-081_PICT0081.jpg",
+      "sha256": "ed44a4e55e7cc9e381eb57ed808e63e0a75137a1e95e73cd21b933f9dd1a6d55",
+      "width": 800,
+      "height": 600,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 67428,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/PICT0081.jpg",
+      "source_sections": [
+        "commercial projects / imagem 19"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-081",
+      "visual_description": "Área de galpão com veículo de serviço",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-082",
+      "filename": "IMG-082_28.JPG",
+      "path": "assets/original/IMG-082_28.JPG",
+      "sha256": "1512440bd99dff28da2d7905665f170aee976b76c4b747078257715fc6412e98",
+      "width": 480,
+      "height": 640,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 83256,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/28.JPG",
+      "source_sections": [
+        "commercial projects / imagem 20"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-082",
+      "visual_description": "Edifício alto em enquadramento vertical",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-083",
+      "filename": "IMG-083_9.JPG",
+      "path": "assets/original/IMG-083_9.JPG",
+      "sha256": "0936a484dab12abc05ba8f3fdea7c5de1359d0ada5df5d8b04931dfa20f8f487",
+      "width": 640,
+      "height": 480,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 84318,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/9.JPG",
+      "source_sections": [
+        "commercial projects / imagem 21"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-083",
+      "visual_description": "Edifício urbano de tijolos em esquina",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    },
+    {
+      "id": "IMG-084",
+      "filename": "IMG-084_7.JPG",
+      "path": "assets/original/IMG-084_7.JPG",
+      "sha256": "1691fbc735116b5b74cdd3b8fba70d2830a3f83c0966787d03b45f16807d76eb",
+      "width": 480,
+      "height": 640,
+      "role": "photo-candidate",
+      "category_candidate": "commercial",
+      "rights": "unverified",
+      "gallery_eligible": "conditional_authenticity_and_rights",
+      "featured": [],
+      "bytes": 84969,
+      "source_url": "https://img1.wsimg.com/isteam/ip/bca255c8-dffe-451d-82c5-02a91bd6cca1/7.JPG",
+      "source_sections": [
+        "commercial projects / imagem 22"
+      ],
+      "source_evidence": "sources/auditoria/inventario_imagens.json#IMG-084",
+      "visual_description": "Edifício alto em enquadramento vertical",
+      "visual_review": {
+        "date": "2026-10-16",
+        "status": "inspected",
+        "method": "local_contact_sheet",
+        "notes": "Descrição do inventário confrontada visualmente; autoria e direitos não confirmados."
+      },
+      "authenticity_status": "source_documented_not_owner_confirmed",
+      "publication_approved": false,
+      "duplicate_of": null,
+      "duplicate_kind": null,
+      "similar_scene_candidate": null,
+      "selection_details": null,
+      "focal_point_candidate": null,
+      "crop_status": "not_selected",
+      "gallery_status": "candidate_not_authenticated",
+      "gallery_reason": "Manter acessível no inventário; integrar à galeria documental quando autenticada e autorizada."
+    }
+  ],
+  "review_date": "2026-10-16",
+  "summary": {
+    "records": 84,
+    "brand_assets": 3,
+    "composites_held_for_review": 2,
+    "photo_candidates": 79,
+    "binary_duplicate_pairs": 1,
+    "visual_duplicate_pairs": 2,
+    "photo_candidate_groups_before_further_review": 76,
+    "owner_confirmed_works": 0,
+    "publication_approved_photos": 0
+  },
+  "slots": {
+    "hero-primary": {
+      "primary": "IMG-024",
+      "reserve": "IMG-028",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "service-interior": {
+      "primary": "IMG-029",
+      "reserve": "IMG-028",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "service-exterior": {
+      "primary": "IMG-013",
+      "reserve": "IMG-020",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "service-wallpaper": {
+      "primary": "IMG-011",
+      "reserve": "IMG-012",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "service-drywall": {
+      "primary": "IMG-021",
+      "reserve": "IMG-032",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "service-cabinets": {
+      "primary": "IMG-016",
+      "reserve": "IMG-038",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "service-powerwashing": {
+      "primary": "IMG-015",
+      "reserve": null,
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "epoxy-feature": {
+      "primary": "IMG-006",
+      "reserve": "IMG-059",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "epoxy-surface": {
+      "primary": "IMG-062",
+      "reserve": "IMG-002",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "epoxy-marble-look": {
+      "primary": "IMG-003",
+      "reserve": "IMG-017",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "commercial-feature": {
+      "primary": "IMG-077",
+      "reserve": "IMG-079",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "about-primary": {
+      "primary": "IMG-022",
+      "reserve": "IMG-059",
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "brand-elias": {
+      "primary": "IMG-008",
+      "reserve": null,
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    },
+    "brand-tiger": {
+      "primary": "IMG-007",
+      "reserve": null,
+      "status": "editorial_conditional",
+      "details": "image-manifest.md"
+    }
+  }
+}
