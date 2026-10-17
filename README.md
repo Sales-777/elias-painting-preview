@@ -1,6 +1,6 @@
 # Elias Painting — prévia no GitHub Pages
 
-Projeto preparado e testado em 17/10/2026. Envio do código e publicação da prévia autorizados pelo usuário. Repositório público: https://github.com/Sales-777/elias-painting-preview. A ativação do GitHub Pages ainda precisa ser concluída.
+Projeto preparado e testado em 17/10/2026. Envio do código e publicação da prévia autorizados pelo usuário. Repositório público: https://github.com/Sales-777/elias-painting-preview. Prévia publicada com sucesso em 17/10/2026: https://sales-777.github.io/elias-painting-preview/.
 
 ## O que existe no projeto
 
@@ -12,7 +12,7 @@ O processo de compilação prepara imagens WebP, verifica TypeScript, compila a 
 
 Conta conectada: Sales-777.
 Repositório: elias-painting-preview.
-Endereço previsto, ainda não publicado: https://sales-777.github.io/elias-painting-preview/
+Endereço publicado: https://sales-777.github.io/elias-painting-preview/
 
 Se o repositório for público, outras pessoas poderão consultar e baixar seu código e as imagens enviadas. O site publicado também poderá ser visitado por qualquer pessoa. A tag noindex, nofollow já existente foi preservada; ela não torna a página privada. O próprio protótipo informa que a atribuição das fotografias e os direitos de imagem aguardam confirmação.
 
@@ -65,7 +65,7 @@ Abrir http://127.0.0.1:4173/elias-painting-preview/. Para voltar à configuraç�
 
 Instalação limpa concluída; compilação completa com base /elias-painting-preview/ aprovada; dois testes da galeria aprovados. Testes no Chrome em 360, 390, 768 e 1440 pixels: sem erros de JavaScript, sem respostas HTTP com erro e sem transbordamento horizontal. Filtros, carregamento progressivo, ampliação, teclado, retorno do foco, menu móvel e página sem JavaScript passaram. A análise automática de acessibilidade não encontrou violações nas verificações executadas; isso não substitui uma auditoria manual completa. Os links das três variantes agrupadas também apontam para arquivos existentes.
 
-A execução remota do GitHub Actions e o endereço público só poderão ser verificados após aprovação, criação do repositório e publicação.
+GitHub Actions executado com sucesso em 17/10/2026: instalação, testes, build e deploy aprovados. Execução: https://github.com/Sales-777/elias-painting-preview/actions/runs/39062120288.
 
 O pacote para envio contém código, fotografias usadas na compilação, catálogo e configuração. Foram deixados fora os dossiês, referências de inspiração, capturas de testes, caches e dependências instaladas. Os arquivos originais do ZIP e de sources/ foram preservados.
 
