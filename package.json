@@ -10,6 +10,7 @@
     "preview": "vite preview --configLoader runner --host 127.0.0.1 --port 4173",
     "test": "node tests/gallery.test.mjs",
     "test:browser": "node scripts/check-browser.mjs",
+    "test:demo": "node scripts/check-demo-readiness.mjs",
     "predev": "npm run prepare:media"
   },
   "dependencies": {

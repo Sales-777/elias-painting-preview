@@ -55,7 +55,7 @@ try {
       assert(await toggle.evaluate(el => el === document.activeElement))
     }
     await page.locator('#services').evaluate(el => scrollTo(0,scrollY+el.getBoundingClientRect().top-112))
-    const servicesAxe = await new AxeBuilder({page}).include('#services').withTags(['wcag2a','wcag2aa','wcag21aa']).analyze()
+    const servicesAxe = await new AxeBuilder({page}).include('#services').withTags(['wcag2a','wcag2aa','wcag21a','wcag21aa','wcag22aa']).analyze()
     await page.locator('#gallery').scrollIntoViewIfNeeded()
     await page.waitForFunction(() => document.querySelectorAll('.gallery-item').length === 12)
     await page.getByRole('button',{name:'Load more',exact:true}).click()
@@ -87,7 +87,7 @@ try {
     await page.locator('#gallery').evaluate(el => window.scrollTo(0,window.scrollY+el.getBoundingClientRect().top-112))
     await page.waitForTimeout(200)
     await page.screenshot({path:resolve(out,`${width}-gallery.png`)})
-    const axe = await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze()
+    const axe = await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21a','wcag21aa','wcag22aa']).analyze()
     report.accessibility.push({width,violations:[...servicesAxe.violations,...axe.violations].map(v => ({id:v.id,impact:v.impact,description:v.description,nodes:v.nodes.map(n => n.target)}))})
     await page.evaluate(async () => {
       for(let y=0;y<document.body.scrollHeight;y+=600){window.scrollTo(0,y);await new Promise(r=>setTimeout(r,30))}

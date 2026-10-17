@@ -1,7 +1,9 @@
 name: Publicar previa no GitHub Pages
 
-# A publicacao so acontece ao executar este fluxo manualmente.
+# O envio a main publica a versao aprovada; o disparo manual permanece disponivel.
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:

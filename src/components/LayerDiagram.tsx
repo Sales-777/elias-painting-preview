@@ -35,7 +35,7 @@ export function LayerDiagram({ active, svgRef, onSelect, enhanced }: { active: n
       <pattern id="finish-flakes" width="170" height="145" patternUnits="userSpaceOnUse">{flakes}</pattern>
     </defs>
     <ellipse cx="330" cy="623" rx="330" ry="35" fill="url(#sample-shadow)"/>
-    {layerNames.map((name, i) => <g key={name} className={`diagram-layer ${active === i ? 'selected-layer' : ''}`} data-layer={i} style={{ transform: `translateY(${staticLayerPositions[i]}px)` }} role={enhanced ? 'button' : undefined} tabIndex={enhanced ? 0 : undefined} aria-label={`${String(i+1).padStart(2,'0')} ${name}`} aria-pressed={enhanced ? active === i : undefined} aria-controls={enhanced ? 'active-layer-detail' : undefined} onClick={() => onSelect(i)} onKeyDown={event => {
+    {layerNames.map((name, i) => <g key={name} className={`diagram-layer ${active === i ? 'selected-layer' : ''}`} data-layer={i} style={{ transform: `translateY(${staticLayerPositions[i]}px)` }} role={enhanced ? 'button' : undefined} tabIndex={enhanced ? 0 : undefined} aria-labelledby={`layer-number-${i} layer-name-${i}`} aria-pressed={enhanced ? active === i : undefined} aria-controls={enhanced ? 'active-layer-detail' : undefined} onClick={() => onSelect(i)} onKeyDown={event => {
       if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); onSelect(i) }
       if (['ArrowUp','ArrowDown','Home','End'].includes(event.key)) {
         event.preventDefault()
@@ -61,12 +61,12 @@ export function LayerDiagram({ active, svgRef, onSelect, enhanced }: { active: n
         <path className="layer-dimmer" d={`M320 0 610 134v${i === 0 ? 56 : i === 1 ? 8 : i === 2 ? 16 : 7}L320 ${268+(i === 0 ? 56 : i === 1 ? 8 : i === 2 ? 16 : 7)} 30 ${134+(i === 0 ? 56 : i === 1 ? 8 : i === 2 ? 16 : 7)}V134Z`} fill="#0b1510"/>
         <path className="layer-selection-edge" d={footprint} fill="none"/>
       </g>
-      <g className="layer-callout" aria-hidden="true">
+      <g className="layer-callout">
         <path d="M602 134H663" fill="none" stroke={identifiers[i]} strokeWidth="2"/>
         <circle cx="608" cy="134" r="5" fill={identifiers[i]}/>
         <circle className="layer-number-disc" cx="690" cy="134" r="24" fill="#242925" stroke={identifiers[i]} strokeWidth="2"/>
-        <text className="layer-number" x="690" y="143" textAnchor="middle" fill="#f3efe7">{String(i+1).padStart(2,'0')}</text>
-        <text className="layer-name" x="734" y="126" fill="#f0eee7">{labels[i][0]}<tspan x="734" dy="28" className="layer-qualifier">{labels[i][1]}</tspan></text>
+        <text id={`layer-number-${i}`} className="layer-number" x="690" y="143" textAnchor="middle" fill="#f3efe7">{String(i+1).padStart(2,'0')}</text>{' '}
+        <text id={`layer-name-${i}`} className="layer-name" x="734" y="126" fill="#f0eee7">{labels[i][0]}{' '}<tspan x="734" dy="28" className="layer-qualifier">{labels[i][1]}</tspan></text>
       </g>
     </g>)}
   </svg></div>

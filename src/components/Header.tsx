@@ -51,8 +51,8 @@ export function Header() {
   return <>
     <a className="skip-link" href="#main">Skip to content</a>
     <header className={`site-header ${scrolled ? 'is-scrolled' : ''} ${open ? 'menu-is-open' : ''}`}>
-      <a className="brand" href="#home" aria-label="Elias Painting Contractor home">
-        <span className="brand-mark"><Photo id="IMG-008" className="brand-logo" /></span>
+      <a className="brand" href="#home">
+        <span className="brand-mark"><Photo id="IMG-008" className="brand-logo" alt="" /></span>
         <span><strong>Elias Painting</strong><span className="brand-subtitle">Painting & finishes</span></span>
       </a>
       <button className="menu-toggle" ref={trigger} aria-expanded={open} aria-controls="primary-navigation" onClick={() => setOpen(!open)} aria-label={open ? 'Close navigation' : 'Open navigation'}>{open ? <CloseIcon /> : <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 8h18M3 16h18" stroke="currentColor" strokeWidth="1.5" /></svg>}</button>

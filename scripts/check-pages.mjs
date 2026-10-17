@@ -21,6 +21,8 @@ try {
   }
   if (!ready) throw new Error('Preview server unavailable')
   await import('./check-browser.mjs')
+  if (process.exitCode) throw new Error('General browser checks failed')
+  await import('./check-demo-readiness.mjs')
 } finally {
   server.kill()
 }

@@ -1,5 +1,6 @@
 import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react'
 import { Arrow } from './Icon'
+import { GalleryViewerBoundary, GalleryViewerFallback } from './GalleryViewerBoundary'
 
 const Lightbox = lazy(() => import('./Lightbox'))
 const filters = ['All', 'Residential', 'Commercial', 'Epoxy', 'Other']
@@ -29,6 +30,8 @@ export function Gallery() {
   }, [attempt])
   const filtered = useMemo(() => items.filter(item => category === 'All' || item.category === (category === 'Other' ? 'unclassified' : category.toLowerCase())), [items, category])
   function changeFilter(filter:string) { setCategory(filter); setCount(12) }
+  function closeViewer() { setSelected(null); returnFocus.current?.focus() }
+  const selectedItem = filtered.find(item => item.id === selected)
   return <section ref={section} className="gallery-section container section-space" id="gallery" aria-labelledby="gallery-heading">
     <div className="section-heading"><h2 id="gallery-heading">Our work.<br />A closer look.</h2><div><p>Explore interiors, exteriors and floor finishes from the existing image collection.</p><p className="collection-note">Preview collection: project attribution and image rights are awaiting owner confirmation.</p></div></div>
     <div className="gallery-toolbar"><div className="gallery-filters" role="group" aria-label="Filter image collection">{filters.map(filter => <button key={filter} aria-pressed={filter === category} onClick={() => changeFilter(filter)}>{filter}</button>)}</div><p className="gallery-count" aria-live="polite" aria-atomic="true">{status === 'ready' ? `${Math.min(count, filtered.length)} of ${filtered.length} images` : status === 'error' ? 'Collection unavailable' : 'Preparing the collection…'}</p></div>
@@ -41,6 +44,6 @@ export function Gallery() {
       {filtered.length > count && <div className="load-more"><button className="button button-dark" onClick={() => setCount(value => value+12)}>Load more <Arrow /></button><p>Explore at your own pace.</p></div>}
     </>}
     <noscript><p>The interactive collection needs JavaScript. The complete collection is available in the image index below.</p></noscript>
-    {selected && <Suspense fallback={<div role="status" className="lightbox-loading">Opening image… <button onClick={() => setSelected(null)}>Cancel</button></div>}><Lightbox items={filtered} selectedId={selected} onChange={setSelected} onClose={() => { setSelected(null); returnFocus.current?.focus() }} /></Suspense>}
+    {selectedItem && <GalleryViewerBoundary fallback={<GalleryViewerFallback item={selectedItem} onClose={closeViewer} />}><Suspense fallback={<div role="status" className="lightbox-loading">Opening image… <button onClick={closeViewer}>Cancel</button></div>}><Lightbox items={filtered} selectedId={selectedItem.id} onChange={setSelected} onClose={closeViewer} /></Suspense></GalleryViewerBoundary>}
   </section>
 }

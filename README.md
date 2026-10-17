@@ -1,5 +1,11 @@
 # Elias Painting — prévia no GitHub Pages
 
+## Atualização pós-auditoria
+
+A revisão local corrigida está documentada em `docs/ATUALIZACAO_DEMO.md`. Ela preserva as fotografias e a direção visual, contém falhas do visualizador, corrige os nomes acessíveis e identifica explicitamente a demonstração independente. `noindex, nofollow` permanece.
+
+O histórico abaixo registra a publicação anterior. A preparação desta atualização não equivale a uma nova publicação; o envio ao GitHub e a atualização pública dependem da confirmação solicitada ao usuário.
+
 Projeto preparado e testado em 17/10/2026. Envio do código e publicação da prévia autorizados pelo usuário. Repositório público: https://github.com/Sales-777/elias-painting-preview. Prévia publicada com sucesso em 17/10/2026: https://sales-777.github.io/elias-painting-preview/.
 
 ## O que existe no projeto
@@ -18,7 +24,7 @@ Se o repositório for público, outras pessoas poderão consultar e baixar seu c
 
 Não existe arquivo CNAME neste pacote. Não adicionar domínio personalizado nem alterar DNS. A prévia usa apenas o endereço github.io e mantém o domínio oficial independente.
 
-Autorização já concedida. Para concluir a publicação:
+Procedimento histórico usado na primeira publicação (o repositório já existe; não criar outro):
 
 1. Criar na conta Sales-777 o repositório elias-painting-preview, com a visibilidade aprovada.
 2. Enviar o conteúdo da pasta do pacote para a raiz do repositório. package.json e .github/ precisam ficar diretamente na raiz, sem uma pasta extra envolvendo tudo. Ao enviar, incluir a pasta oculta .github/. Usar Git ou GitHub Desktop ajuda a preservar as pastas.
@@ -26,7 +32,7 @@ Autorização já concedida. Para concluir a publicação:
 4. Em Actions, abrir “Publicar previa no GitHub Pages”, selecionar a branch main e clicar em Run workflow. Essa é a etapa que publica o site.
 5. Aguardar a conclusão e abrir o endereço informado pela execução. Conferir capa, galeria, botão Get in Touch e versão de celular.
 
-O fluxo é manual: enviar alterações ao repositório não publica uma nova versão automaticamente. Para atualizar o site, executar novamente Run workflow após revisar as alterações.
+Nesta atualização, o fluxo existente foi preparado para executar também em envios à branch `main`, preservando `Run workflow`. Esse ajuste faz parte da confirmação solicitada antes do envio: um push aprovado à `main` acionará build e publicação. Novos envios à `main` também acionarão o fluxo; revisar cada atualização antes de enviá-la. Não enviar a alteração enquanto a confirmação estiver pendente.
 
 ## Ajustes feitos
 
@@ -60,6 +66,14 @@ npm run preview
 ```
 
 Abrir http://127.0.0.1:4173/elias-painting-preview/. Para voltar à configuração local padrão antes de recompilar, executar Remove-Item Env:PAGES_BASE_PATH.
+
+Para validar o build no caminho de Pages, com Chrome instalado:
+
+```powershell
+node scripts/check-pages.mjs
+```
+
+O comando inicia uma prévia temporária em 4187, executa os testes gerais e a regressão pós-auditoria e encerra o servidor ao terminar. A regressão cobre falha de módulo, alternativa visual, foco, filtros completos, imagens agrupadas, 177 URLs de mídia, `noindex` e aviso de demonstração. Relatórios ficam em `reports/`, ignorados pelo Git. Esse comando não publica.
 
 ## Validação realizada
 

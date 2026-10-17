@@ -10,3 +10,13 @@ reports/phase-2/browser-profile/
 CODIGO_DO_SITE.txt
 vite.config.js
 vite.config.d.ts
+reports/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.zip
+*.log
